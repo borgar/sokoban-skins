@@ -9,4 +9,4 @@ The skins exist in several sizes and flavours. Use them in your Sokoban programs
 [sk]: http://en.wikipedia.org/wiki/Sokoban
 [bt]: http://borgar.net
 [js]: https://github.com/borgar/jquery-sokoban
-[cc]: http://creativecommons.org/licenses/by/3.0/legalcode
+[cc]: http://creativecommons.org/licenses/by/3.0/
